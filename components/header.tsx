@@ -8,9 +8,9 @@ export const Header = () => {
       <View className="flex-row justify-between px-5">
         <ProfileIcon />
         <View className="flex-row">
-          <ButtonIcon icon="eye" onPress={() => alert("entrei")} />
-          <ButtonIcon icon="circle-question" onPress={() => alert("entrei")} />
-          <ButtonIcon icon="envelope" onPress={() => alert("entrei")} />
+          <ButtonIcon icon="eye" onPress={() => {}} />
+          <ButtonIcon icon="circle-question" onPress={() => {}} />
+          <ButtonIcon icon="envelope" onPress={() => {}} />
         </View>
       </View>
       <View className="px-5 py-7">
